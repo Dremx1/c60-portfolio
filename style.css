@@ -1,0 +1,64 @@
+.line{
+    
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+
+body
+{
+    
+  text-align: center;  
+    
+}
+
+
+#apps
+{
+    
+  width: 100%;
+    height: 800px;
+    background-color: lightcoral;
+    
+    
+}
+
+#game
+{
+    
+  width: 100%;
+    height: 800px;
+    background-color: lightyellow;
+    
+    
+}
+
+#chat
+{
+    
+  width: 100%;
+    height: 800px;
+    background-color: lightgreen;
+    
+    
+}
+
+img:hover
+{
+    
+transform: scale(0.9);
+    
+}
+
+img
+{
+    
+transition: transform .2s;
+    
+}
+    
+    
+    
+
